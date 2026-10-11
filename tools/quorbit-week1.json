@@ -1,0 +1,436 @@
+[
+ {
+  "slug": "01-front-desk",
+  "topic": "Agency",
+  "title": "Your front desk is losing patients",
+  "slides": [
+   [
+    "cover",
+    "Your front desk is losing patients",
+    "And it's not your staff's fault."
+   ],
+   [
+    "stake",
+    "A missed call is a patient who books the next clinic on Google Maps.",
+    null
+   ],
+   [
+    "idea",
+    "Busy hours, no answer",
+    "Patients call in the morning and evening rush, exactly when your receptionist is already with someone."
+   ],
+   [
+    "idea",
+    "WhatsApp goes unread",
+    "Patients message after hours. By the time someone replies, they've booked somewhere else."
+   ],
+   [
+    "idea",
+    "No-shows nobody chased",
+    "No reminder the day before means an empty chair you can't refill."
+   ],
+   [
+    "idea",
+    "What an AI receptionist does",
+    "Answers calls and WhatsApp 24/7, books and reschedules, sends reminders. Your staff stay with the patient in the room."
+   ],
+   [
+    "recap",
+    "3 leaks, 1 fix",
+    [
+     [
+      "Missed calls",
+      "answered 24/7"
+     ],
+     [
+      "Unread WhatsApp",
+      "instant reply"
+     ],
+     [
+      "No-shows",
+      "automatic reminder"
+     ]
+    ]
+   ],
+   [
+    "cta",
+    "Comment",
+    "DEMO",
+    "We'll send you a free 15-minute demo link."
+   ]
+  ],
+  "caption": "Most clinics don't have a patient problem. They have a front desk problem.\n\nWhen the phone rings during a busy hour and nobody picks up, that patient doesn't call back. They book the next dental clinic on Google Maps.\n\nWe're building an AI receptionist for dental clinics in Karachi. It answers calls and WhatsApp messages 24/7, books appointments and sends reminders, so your staff can focus on the patient in the chair.\n\nComment DEMO and We'll send you a link to book a free 15-minute demo.\n\n#dentalclinic #karachi #dentistsofinstagram #aireceptionist"
+ },
+ {
+  "slug": "02-copy-paste",
+  "topic": "Automation",
+  "title": "Stop copying data between apps",
+  "slides": [
+   [
+    "cover",
+    "You're paying people to copy-paste",
+    "Here's what to automate first."
+   ],
+   [
+    "stake",
+    "Every manual copy between apps costs time and invites a typo.",
+    null
+   ],
+   [
+    "idea",
+    "Email to spreadsheet",
+    "Orders, leads and invoices arrive by email. An automation adds each one to a sheet the moment it lands."
+   ],
+   [
+    "idea",
+    "Form to WhatsApp alert",
+    "A new enquiry comes in and the right person gets a WhatsApp alert straight away, not tomorrow."
+   ],
+   [
+    "idea",
+    "Sheet to daily report",
+    "Yesterday's numbers collected and sent as a summary every morning, without anyone building it."
+   ],
+   [
+    "idea",
+    "How to pick the first one",
+    "Choose a task that happens daily, follows the same steps every time, and is low risk if it goes wrong."
+   ],
+   [
+    "recap",
+    "Automate these first",
+    [
+     [
+      "Email",
+      "spreadsheet row"
+     ],
+     [
+      "New enquiry",
+      "WhatsApp alert"
+     ],
+     [
+      "Daily numbers",
+      "morning report"
+     ]
+    ]
+   ],
+   [
+    "cta",
+    "Save this",
+    "",
+    "Come back to it when you plan your first automation."
+   ]
+  ],
+  "caption": "Most small businesses in Karachi still pay someone to copy data between apps by hand.\n\nGmail to Google Sheets. A website form to WhatsApp. Yesterday's sales to an 8am report. We build these with Zapier, and each one takes an afternoon to set up, then runs every day without anyone touching it.\n\nStart with one task that happens daily, follows the same 3 or 4 steps, and won't hurt anyone if it goes wrong once.\n\nSave this for when you plan your first automation.\n\n#automation #smallbusiness #productivity #zapier"
+ },
+ {
+  "slug": "03-no-shows",
+  "topic": "Agency",
+  "title": "No-shows cost clinics more than they think",
+  "slides": [
+   [
+    "cover",
+    "Empty chairs are expensive",
+    "Most no-shows are just forgetting."
+   ],
+   [
+    "stake",
+    "A missed appointment is a slot you paid rent and staff for, with nothing to show.",
+    null
+   ],
+   [
+    "idea",
+    "Why patients don't show",
+    "They booked two weeks ago, life got busy, and nobody reminded them."
+   ],
+   [
+    "idea",
+    "The reminder that works",
+    "A WhatsApp message the day before, with a one-tap confirm or reschedule."
+   ],
+   [
+    "idea",
+    "Fill the gap fast",
+    "When someone cancels, the next patient on your waiting list gets offered the slot."
+   ],
+   [
+    "idea",
+    "Who sends all this?",
+    "An AI receptionist, automatically. Your staff don't have to chase anyone."
+   ],
+   [
+    "recap",
+    "Fewer empty chairs",
+    [
+     [
+      "Day before",
+      "WhatsApp reminder"
+     ],
+     [
+      "Patient replies",
+      "one-tap confirm or reschedule"
+     ],
+     [
+      "Cancellation",
+      "slot offered to the waiting list"
+     ]
+    ]
+   ],
+   [
+    "cta",
+    "Comment",
+    "DEMO",
+    "We'll send you a free 15-minute demo link."
+   ]
+  ],
+  "caption": "Most dental no-shows aren't patients being rude. They booked 2 weeks ago and forgot.\n\nA WhatsApp reminder at 6pm the day before, with a one-tap confirm or reschedule, fixes a lot of it. And when someone cancels, the slot can go straight to the next patient on your waiting list.\n\nWe're building an AI receptionist for dental clinics in Karachi that sends appointment reminders like this automatically, so your staff never chase anyone.\n\nComment DEMO and We'll send you a link to book a free 15-minute demo.\n\n#dentalclinic #karachi #dentistsofinstagram #aireceptionist"
+ },
+ {
+  "slug": "04-whatsapp",
+  "topic": "Agency",
+  "title": "Patients prefer booking on WhatsApp",
+  "slides": [
+   [
+    "cover",
+    "Your patients want WhatsApp",
+    "Not a phone call."
+   ],
+   [
+    "stake",
+    "Many patients would rather send a WhatsApp than call a clinic.",
+    null
+   ],
+   [
+    "idea",
+    "They message at night",
+    "After work, after dinner. Your front desk closed hours ago."
+   ],
+   [
+    "idea",
+    "Slow replies lose them",
+    "If they wait till morning, they've already asked two other clinics."
+   ],
+   [
+    "idea",
+    "Reply in seconds",
+    "An AI receptionist answers WhatsApp straight away with your timings, fees and open slots."
+   ],
+   [
+    "idea",
+    "And books it",
+    "It confirms the appointment and adds it to your schedule. Your staff just see it in the morning."
+   ],
+   [
+    "recap",
+    "WhatsApp, done right",
+    [
+     [
+      "Any hour",
+      "instant reply"
+     ],
+     [
+      "Questions",
+      "timings and fees"
+     ],
+     [
+      "Ready to book",
+      "slot confirmed"
+     ]
+    ]
+   ],
+   [
+    "cta",
+    "Comment",
+    "DEMO",
+    "We'll send you a free 15-minute demo link."
+   ]
+  ],
+  "caption": "Your next patient probably won't call. They'll send a WhatsApp at 11pm.\n\nBy 10am, if nobody has replied, they've asked 2 other clinics on Google Maps as well. Fast replies win bookings, and that's hard when your front desk closes at 9.\n\nWe're building an AI receptionist for dental clinics in Karachi that answers WhatsApp messages in seconds, shares your timings and fees, and books the appointment.\n\nComment DEMO and We'll send you a link to book a free 15-minute demo.\n\n#dentalclinic #karachi #whatsappbusiness #aireceptionist"
+ },
+ {
+  "slug": "05-agent-vs-automation",
+  "topic": "Automation",
+  "title": "Agents vs automations",
+  "slides": [
+   [
+    "cover",
+    "Automation or AI agent?",
+    "They're not the same thing."
+   ],
+   [
+    "stake",
+    "Pick the wrong one and you pay for brains you don't need, or rules that keep breaking.",
+    null
+   ],
+   [
+    "idea",
+    "Automation follows rules",
+    "If this happens, do that. Same steps every time. Cheap and reliable."
+   ],
+   [
+    "idea",
+    "An agent makes decisions",
+    "It reads the situation, chooses the next step, and handles messy input like a free-text message."
+   ],
+   [
+    "idea",
+    "Use automation when",
+    "The task never changes: copying data, sending alerts, filing documents."
+   ],
+   [
+    "idea",
+    "Use an agent when",
+    "The input varies: answering customer questions, sorting enquiries, drafting replies."
+   ],
+   [
+    "recap",
+    "Quick rule",
+    [
+     [
+      "Same steps every time",
+      "automation"
+     ],
+     [
+      "Needs judgement",
+      "AI agent"
+     ],
+     [
+      "Not sure?",
+      "start with automation"
+     ]
+    ]
+   ],
+   [
+    "cta",
+    "Save this",
+    "",
+    "Use it next time someone pitches you AI."
+   ]
+  ],
+  "caption": "Not everything needs an AI agent. We've built both, and a simple Zapier automation beats an agent most of the time.\n\nAn automation follows rules: a new Gmail order becomes a Google Sheets row, the same way every time. An AI agent makes decisions: it reads a messy WhatsApp message at 11pm and works out what the customer wants.\n\nOur rule: if the steps never change, automate it. If it needs judgement, use an agent. Not sure? Start with the automation.\n\nSave this for the next time someone pitches you AI.\n\n#aiagents #automation #zapier #smallbusiness"
+ },
+ {
+  "slug": "06-honest-limits",
+  "topic": "Agency",
+  "title": "What an AI receptionist can't do",
+  "slides": [
+   [
+    "cover",
+    "What our AI receptionist can't do",
+    "Honest limits, before you buy anything."
+   ],
+   [
+    "stake",
+    "You should know exactly where AI stops and your staff take over.",
+    null
+   ],
+   [
+    "idea",
+    "It doesn't give medical advice",
+    "It books, answers timings and fees, and passes clinical questions to your team."
+   ],
+   [
+    "idea",
+    "It hands off hard calls",
+    "An upset patient or an emergency goes straight to a person."
+   ],
+   [
+    "idea",
+    "It follows your rules",
+    "Your timings, fees and policies decide what it says. It doesn't make them up."
+   ],
+   [
+    "idea",
+    "What it does well",
+    "The repetitive part: answering, booking, rescheduling and reminding, at any hour."
+   ],
+   [
+    "recap",
+    "Where it fits",
+    [
+     [
+      "Routine questions",
+      "AI"
+     ],
+     [
+      "Bookings and reminders",
+      "AI"
+     ],
+     [
+      "Clinical or upset patients",
+      "your staff"
+     ]
+    ]
+   ],
+   [
+    "cta",
+    "Comment",
+    "DEMO",
+    "We'll send you a free 15-minute demo link."
+   ]
+  ],
+  "caption": "Our AI receptionist won't handle 3 things, and you should know them before you buy anything.\n\n1. Medical advice. Clinical questions go to your dentist.\n2. Emergencies and upset patients. They go straight to a person.\n3. Anything your clinic hasn't told it. It only uses your timings, fees and policies.\n\nWhat it does well is the repetitive front desk work for dental clinics in Karachi: answering, booking, rescheduling and reminding, at 2am or 2pm.\n\nComment DEMO and We'll send you a link to book a free 15-minute demo.\n\n#dentalclinic #karachi #aireceptionist #dentistsofinstagram"
+ },
+ {
+  "slug": "07-google-reviews",
+  "topic": "Agency",
+  "title": "Automating Google review requests",
+  "slides": [
+   [
+    "cover",
+    "Get more Google reviews",
+    "Happy patients just forget to leave one."
+   ],
+   [
+    "stake",
+    "New patients pick clinics by Google rating, and most happy patients never write a review unless asked.",
+    null
+   ],
+   [
+    "idea",
+    "Ask at the right time",
+    "A WhatsApp message a few hours after the appointment, while the visit is fresh."
+   ],
+   [
+    "idea",
+    "Make it one tap",
+    "Include your direct review link so they don't have to search for your clinic."
+   ],
+   [
+    "idea",
+    "Hear the problems too",
+    "Send every patient the same link. If a reply mentions a problem, the clinic gets alerted to follow up."
+   ],
+   [
+    "idea",
+    "Set it once",
+    "It runs after every appointment, without anyone remembering to ask."
+   ],
+   [
+    "recap",
+    "Review system",
+    [
+     [
+      "After the visit",
+      "WhatsApp request"
+     ],
+     [
+      "One tap",
+      "direct review link"
+     ],
+     [
+      "Complaint in a reply",
+      "clinic follows up"
+     ]
+    ]
+   ],
+   [
+    "cta",
+    "Comment",
+    "DEMO",
+    "We'll send you a free 15-minute demo link."
+   ]
+  ],
+  "caption": "Your happiest patients are the least likely to leave a Google review. They just forget.\n\nA short WhatsApp message 3 hours after the appointment, with a direct one-tap Google review link, makes it easy while the visit is fresh. Every patient gets the same message, and if someone replies with a problem, the clinic hears about it and follows up.\n\nWe're building this into an AI receptionist for dental clinics in Karachi, so review requests go out after every appointment.\n\nComment DEMO and We'll send you a link to book a free 15-minute demo.\n\n#dentalclinic #karachi #googlereviews #aireceptionist"
+ }
+]

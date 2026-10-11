@@ -14,7 +14,7 @@ from PIL import Image, ImageDraw, ImageFont
 W, H, M = 1080, 1350, 120
 BG, FG, MUTED, ACC = "#0F1B2D", "#F5F7FA", "#9FB3C8", "#2EC4B6"
 F = "/usr/share/fonts/opentype/inter/"
-HANDLE = "@arsalkamran8086"
+HANDLE = os.environ.get("IG_HANDLE", "@arsalkamran8086")
 def HEAD(s): return ImageFont.truetype(F + "InterDisplay-Bold.otf", s)
 def BODY(s): return ImageFont.truetype(F + "Inter-Regular.otf", s)
 def SEMI(s): return ImageFont.truetype(F + "Inter-SemiBold.otf", s)
